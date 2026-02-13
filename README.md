@@ -1,5 +1,5 @@
 # Mimir
-Pronounced MEE-mere.
+Pronounced MEE-mere, Norse god of knowledge.
 
 A structured system for AI-assisted product management. Skills, scripts, slash commands, and knowledge files that give any AI coding agent persistent context about your product and direct access to your tools.
 
